@@ -6,7 +6,7 @@ int main(int argc, char** argv) {
 	
 	cout << "Hello GIT" << endl;
 	
-	cout << "Hello" << endl;
+	cout << "GIT say: Hello" << endl;
 	
 	return 0;
 }
