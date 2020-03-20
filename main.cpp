@@ -8,5 +8,7 @@ int main(int argc, char** argv) {
 	
 	cout << "GIT say: Hello" << endl;
 	
+	cout << "GIT commit features branch" << endl;
+	
 	return 0;
 }
