@@ -8,7 +8,7 @@ int main(int argc, char** argv) {
 	
 	cout << "GIT say: Hello" << endl;
 	
-	cout << "GIT for feature branch" << endl;
+	cout << "Slack" << endl;
 	
 	return 0;
 }
